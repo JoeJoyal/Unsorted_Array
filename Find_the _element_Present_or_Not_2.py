@@ -1,6 +1,6 @@
 #Find the element weather, present or Not
 #Using flag True/False
-#Search element declare
+#Search_element declare
 #a = [4,9,6,2,0]
 #Input = array
 #Output = 4 True 
