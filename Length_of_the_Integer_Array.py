@@ -1,8 +1,13 @@
 #Find the length of the Integer Array
-def length_of_Integer(N):
+#cCount variable assign
+#a =[2,4,6,8,10]
+#Input = a
+#Output = 5
+
+def length_of_Integer(a):
     count = 0
-    while(N[count:]):
+    while(a[count:]):
         count+=1
     return count
-Array = [2,4,6,8,10]
-print(length_of_Integer(Array))
+a = [2,4,6,8,10]
+print(length_of_Integer(a))
