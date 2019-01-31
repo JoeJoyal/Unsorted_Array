@@ -1,6 +1,6 @@
 #To find out smallest value
 #import the return fun count
-#declare first_num and second_num
+#declare first_num and second_num assign
 #input a =[5,12,7,3]
 #Output '5'
 
