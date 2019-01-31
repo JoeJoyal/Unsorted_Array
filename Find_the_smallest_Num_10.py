@@ -2,7 +2,10 @@
 #import the return fun count
 #declare first_num and second_num
 #input a =[5,12,7,3]
+#Output '5'
+
 import return_fun_count
+
 def smallest_Num(a):
   value_count =return_fun_count.count(a)    
   first_num = a[0]        
